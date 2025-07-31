@@ -1,4 +1,3 @@
-# file-encryption-tool
 🎨 Modern Design
 
 Dark theme with glassmorphism effects and vibrant gradients
